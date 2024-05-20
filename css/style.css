@@ -5,3 +5,12 @@ body {
 .p {
     color: blueviolet;
 }
+
+h1 {
+    font-size: 48px;
+    color: aliceblue;
+}
+
+.text {
+    font-style: italic;
+}
